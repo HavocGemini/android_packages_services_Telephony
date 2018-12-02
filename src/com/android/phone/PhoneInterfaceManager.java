@@ -3683,7 +3683,9 @@ public class PhoneInterfaceManager extends ITelephony.Stub {
                 setPreferredNetworkType(subId, getDefaultNetworkType(subId));
 
                 // Turn off roaming
-                mPhone.setDataRoamingEnabled(getDefaultDataRoamingEnabled(subId));
+                Phone phone = getPhone(subId);
+                phone = phone != null ? phone : mPhone;
+                phone.setDataRoamingEnabled(getDefaultDataRoamingEnabled(subId));
                 // Remove IMSI encryption keys from Carrier DB.
                 CarrierInfoManager.deleteAllCarrierKeysForImsiEncryption(mPhone.getContext());
             }
