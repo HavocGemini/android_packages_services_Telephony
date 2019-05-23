@@ -516,6 +516,8 @@ public class GsmUmtsCallBarringOptions extends TimeConsumingPreferenceActivity
             displayPwChangeDialog(mIcicle.getInt(DIALOG_MESSAGE_KEY, mPwChangeDialogStrId), false);
             mButtonChangePW.setText(mIcicle.getString(DIALOG_PW_ENTRY_KEY));
         }
+
+        mCheckData = carrierConfig.getBoolean("check_mobile_data_for_cf");
     }
 
     @Override
