@@ -44,7 +44,7 @@
     <!-- Label for "cancel" button on the MMI dialog -->
     <string name="cancel">لابردن</string>
     <!-- Toast string displayed to user if the input in MMI dialog is < 1 or > 160 -->
-    <string name="enter_input">نامەی USSD دەبێ نێوان <xliff:g id="min_len">%d</xliff:g> بۆ <xliff:g id="max_len">%d</xliff:g> هێما بێت. تکایە دووبارە هەوڵ بدەوە.</string>
+    <string name="enter_input">نامەی USSD دەبێ نێوان <xliff:g id="min_len">%1$d</xliff:g> بۆ <xliff:g id="max_len">%2$d</xliff:g> هێما بێت. تکایە دووبارە هەوڵ بدەوە.</string>
     <!-- Label for "Manage conference call" panel [CHAR LIMIT=40] -->
     <string name="manageConferenceLabel">به‌ڕێوه‌بردنی په‌یوه‌ندییه‌ کۆنگره‌ییه‌کان</string>
     <!-- Positive button label ("OK") used in several dialogs in the phone UI [CHAR LIMIT=10] -->

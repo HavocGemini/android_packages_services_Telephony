@@ -29,7 +29,7 @@
     <string name="ussdRunning" msgid="485588686340541690">"Código USSD em execução…"</string>
     <string name="mmiCancelled" msgid="2771923949751842276">"Código MMI cancelado"</string>
     <string name="cancel" msgid="5044513931633602634">"Cancelar"</string>
-    <string name="enter_input" msgid="1810529547726803893">"A mensagem USSD deve ter de <xliff:g id="MIN_LEN">%d</xliff:g> a <xliff:g id="MAX_LEN">%d</xliff:g> caracteres. Tente novamente."</string>
+    <string name="enter_input" msgid="1810529547726803893">"A mensagem USSD deve ter de <xliff:g id="min_len">%1$d</xliff:g> a <xliff:g id="max_len">%2$d</xliff:g> caracteres. Tente novamente."</string>
     <string name="manageConferenceLabel" msgid="4691922394301969053">"Gerenciar teleconferência"</string>
     <string name="ok" msgid="3811371167865772377">"OK"</string>
     <string name="audio_mode_speaker" msgid="27649582100085266">"Alto-falante"</string>

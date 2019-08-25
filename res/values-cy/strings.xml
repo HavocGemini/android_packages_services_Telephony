@@ -47,7 +47,7 @@
     <!-- Label for "cancel" button on the MMI dialog -->
     <string name="cancel">Diddymu</string>
     <!-- Toast string displayed to user if the input in MMI dialog is < 1 or > 160 -->
-    <string name="enter_input">Rhaid i neges USSD fod rhwng <xliff:g id="min_len">%d</xliff:g> a <xliff:g id="max_len">%d</xliff:g> nod. Rho gynnig arall arni.</string>
+    <string name="enter_input">Rhaid i neges USSD fod rhwng <xliff:g id="min_len">%1$d</xliff:g> a <xliff:g id="max_len">%2$d</xliff:g> nod. Rho gynnig arall arni.</string>
     <!-- Label for "Manage conference call" panel [CHAR LIMIT=40] -->
     <string name="manageConferenceLabel">Rheoli galwad grŵp</string>
     <!-- Positive button label ("OK") used in several dialogs in the phone UI [CHAR LIMIT=10] -->

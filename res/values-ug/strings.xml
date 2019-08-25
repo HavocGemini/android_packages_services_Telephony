@@ -39,7 +39,7 @@
     <string name="mmiCancelled">MMI كودى بىكار قىلىندى</string>
     <!-- Label for "cancel" button on the MMI dialog -->
     <!-- Toast string displayed to user if the input in MMI dialog is < 1 or > 160 -->
-    <string name="enter_input">USSD ئۇچۇرى <xliff:g id="min_len">%d</xliff:g> - <xliff:g id="max_len">%d</xliff:g> ھەرپ ئارىسىدا بولىدۇ. قايتا سىناڭ.</string>
+    <string name="enter_input">USSD ئۇچۇرى <xliff:g id="min_len">%1$d</xliff:g> - <xliff:g id="max_len">%2$d</xliff:g> ھەرپ ئارىسىدا بولىدۇ. قايتا سىناڭ.</string>
     <!-- Label for "Manage conference call" panel [CHAR LIMIT=40] -->
     <!-- Positive button label ("OK") used in several dialogs in the phone UI [CHAR LIMIT=10] -->
     <!-- "Audio mode" popup menu: Item label to select the speakerphone [CHAR LIMIT=25] -->

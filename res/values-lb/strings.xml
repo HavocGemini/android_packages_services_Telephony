@@ -44,7 +44,7 @@
     <!-- Label for "cancel" button on the MMI dialog -->
     <string name="cancel">Ofbriechen</string>
     <!-- Toast string displayed to user if the input in MMI dialog is < 1 or > 160 -->
-    <string name="enter_input">Den USSD-Message muss <xliff:g id="min_len">%d</xliff:g> bis <xliff:g id="max_len">%d</xliff:g> Zeeche laang sinn. Probéier w.e.g. nees.</string>
+    <string name="enter_input">Den USSD-Message muss <xliff:g id="min_len">%1$d</xliff:g> bis <xliff:g id="max_len">%2$d</xliff:g> Zeeche laang sinn. Probéier w.e.g. nees.</string>
     <!-- Label for "Manage conference call" panel [CHAR LIMIT=40] -->
     <string name="manageConferenceLabel">Telefonskonferenz verwalten</string>
     <!-- Positive button label ("OK") used in several dialogs in the phone UI [CHAR LIMIT=10] -->
